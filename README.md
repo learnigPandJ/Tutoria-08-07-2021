@@ -1,14 +1,16 @@
-## Getting Started
+Tutoría 08-07-2021 Java Ciclo 2
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Temas Tratados:
 
-## Folder Structure
+1. Lectura de datos con la clase Scanner
+2. Vectores
+3. Matrices
+4. Ciclo for
+5. Condicionales if
+6. Parsing --> Conversion de un tipo de dato a otro (de String a int, float u otro tipo de dato númerico)
 
-The workspace contains two folders by default, where:
+link del código:
+https://github.com/learnigPandJ/Tutoria-08-07-2021.git
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Nota: El código se encuenta en la carpeta src y en los archivos con extension .java, los demas archivos son creados
+	al momento de compilar el programa
